@@ -6,8 +6,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00D1x000000KJBR',
-				'TestSalawa',
-				'https://talixo--bigtestbox.sandbox.my.site.com/ESWTestSalawa1688115440059',
+				'Messaging_for_Web_test',
+				'https://talixo--bigtestbox.sandbox.my.site.com/ESWMessagingforWebtest1692958508358',
 				{
 					scrt2URL: 'https://talixo--bigtestbox.sandbox.my.salesforce-scrt.com'
 				}
@@ -17,5 +17,6 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://talixo--bigtestbox.sandbox.my.site.com/ESWTestSalawa1688115440059/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://talixo--bigtestbox.sandbox.my.site.com/ESWMessagingforWebtest1692958508358/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
 </html>
